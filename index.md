@@ -1,6 +1,7 @@
 ## 熊佳芋傻逼
 
 熊佳芋傻逼(https://github.com/2728228178/text/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+周怡鸿也是傻逼.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
